@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good and true newes from Ireland being the copy of a letter sent from Mr. Rodger Buttock [sic], one of the chief ministers in the city of Dublin, to a brother of his a merchant, living in Alderman-Berrie in London. : Shewing in a true and reall relation, how 400. foot, and 100 horse sent from Dublin, under the command of Sir Charles Coot marched towards Ardes 8: miles from thence, and beat them out of their quarters, defeating the whole army. : Also, how they slew 1100 men at Dundalk, 15, officers, took 4 pieces of ordinance, and great store of good pillage, with the losse of 20. men. / Dated from Dublin the 4 of Aprill, and received here the 12. 1642.</title>
+            <author>Puttock, Roger.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91373</idno>
+            <idno type="STC">Wing P4252A</idno>
+            <idno type="STC">ESTC R182278</idno>
+            <idno type="EEBO-CITATION">45097899</idno>
+            <idno type="OCLC">ocm 45097899</idno>
+            <idno type="VID">171478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good and true newes from Ireland being the copy of a letter sent from Mr. Rodger Buttock [sic], one of the chief ministers in the city of Dublin, to a brother of his a merchant, living in Alderman-Berrie in London. : Shewing in a true and reall relation, how 400. foot, and 100 horse sent from Dublin, under the command of Sir Charles Coot marched towards Ardes 8: miles from thence, and beat them out of their quarters, defeating the whole army. : Also, how they slew 1100 men at Dundalk, 15, officers, took 4 pieces of ordinance, and great store of good pillage, with the losse of 20. men. / Dated from Dublin the 4 of Aprill, and received here the 12. 1642.</title>
+                  <author>Puttock, Roger.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Forster Collection, Victoria and Albert Museum.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mountrath, Charles Coote, --  Earl of, ca. 1610-1661.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171478:1"/>
+            <pb facs="tcp:171478:1"/>
+            <p>Good and true NEWES <hi>FROM</hi> IRELAND <hi>BEING</hi> The Copy of a Letter ſent from Mr. <hi>Rodger Buttock,</hi> one of the chief Miniſters in the City of <hi>Dublin,</hi> to a Brother of his a Merchant, living in <hi>Alderman-Berrie in London.</hi>
+            </p>
+            <p>
+               <hi>SHEWING</hi> In a true and reall Relation, how 400. foot, and 100 horſe ſent from <hi>Dublin,</hi> under the Command of Sir <hi>Charles Coot</hi> marched towards <hi>Ardes</hi> 8<g ref="char:punc">▪</g> miles from thence, and beat them out of their Quarters, defeating the whole Army. Alſo, how they ſlew 1100 men at <hi>Dundalk,</hi> 15, Officers, took 4 pieces of Ordnance, and great ſtore of good pillage, with the loſſe of 20. men.</p>
+            <p>Dated from Dublin the 4 of Aprill, and received here the 12. 1642.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Andrew Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171478:2"/>
+            <pb facs="tcp:171478:2"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <figDesc>emblem of King Charles I flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+            </head>
+            <head>GOOD NEWS FROM <hi>IRELAND.</hi>
+            </head>
+            <opener>
+               <salute>Loving Brother,</salute>
+            </opener>
+            <p>YOurs of the 12. of <hi>March</hi> I re<g ref="char:EOLhyphen"/>ceived, with another from my Brother <hi>Thomas,</hi> both Teſtimo<g ref="char:EOLhyphen"/>nies of your loving affections, to your Siſter and her Children; unto you both under God, I do commend the care of them; as for my ſelf, I am no better then my companions, as a Snail crept out of the ſhell, ſubject to death daily, a<g ref="char:EOLhyphen"/>mong the Inſtruments of death the Lord prepares us for his heavenly Kingdom; for our ſufferings, I doubt not but they
+<pb facs="tcp:171478:3"/>
+have wrought much good in many of us. We were doting before on <hi>Rome</hi> and her Idolatries; now her cruelties cauſe a generall loathing of her and her Do<g ref="char:EOLhyphen"/>ctrines.</p>
+            <p>Before we were wedded to the world, now weaned from it: and I hope they ſhall work a greater meaſure of Grace here, and glory hereafter.</p>
+            <p>The Lord who is the Author of peace in all the Churches of the Saints keep the Church of <hi>England</hi> from Factions and Diſſenſions, to keep the unity of the ſpirit in the bond of peace.</p>
+            <p>You deſired to know how things ſlood with us; as long as I am in <hi>Dublin,</hi> I ſhall endeavor to ſatisfie you by the Poſt weekly.</p>
+            <p>
+               <hi>Droghedah</hi> is releived, her gates opened, and a great market comes in dayly and to relate the manner how tis the the Lords doing and it is marvilous in our eyes<g ref="char:punc">▪</g>
+            </p>
+            <p>From <hi>Drogheda</hi> the Army their with
+<pb facs="tcp:171478:3"/>
+ſome fiue hundred foote and a hundred horſe, ſent from <hi>Duhlin<g ref="char:punc">▪</g>
+               </hi> to them, mar<g ref="char:EOLhyphen"/>ched the laſt week to <hi>Ardee</hi> eight miles thence, and there defeated the enemy.</p>
+            <p>From thence they marched to <hi>Dun<g ref="char:EOLhyphen"/>dark,</hi> ſixteeue miles from <hi>Droghdah,</hi> and their defeated the enemy, ſlew above e<g ref="char:EOLhyphen"/>leven hundred of them: fifreen officers, tooke fowre Pecce of Ordinance from them: and great ſtore of good pillage in both theſe two waled Townes, and which is Gods doing, Wee loſt not twenty men.</p>
+            <p>Our Army from <hi>Dublin,</hi> have burnt and forraged all along to <hi>Drogheda:</hi> twenty miles. To the hill of <hi>Tarah</hi> ſix<g ref="char:EOLhyphen"/>teene miles. To the <hi>Naas</hi> ten miles, But to the Southward (on the moun<g ref="char:EOLhyphen"/>taines) of vs the enemy lies ſtrong near us. On <hi>Friday</hi> laſt an Army of them came down from the mountains, with<g ref="char:EOLhyphen"/>in four miles of <hi>Dublin.</hi> Our horſe went to meet them, on <hi>Saturday</hi> very early, put them all to flight, and pur<g ref="char:EOLhyphen"/>ſued
+<pb facs="tcp:171478:4"/>
+three hundred of them, into the Caſtle of <hi>Carrigmayne,</hi> ſix. miles from <hi>Dublin,</hi> by nine of the clock in the morning, Meſſengers came to <hi>Dublin,</hi> for two peeces of Ordnance, to batter the Caſtle; but with Conſultation, and adviſing with long delayes of a <hi>Cunc<g ref="char:EOLhyphen"/>tator maximus</hi> in our ſtate, <hi>Saturday</hi> was paſſed over, and that might have bin e<g ref="char:EOLhyphen"/>ſily done, that day was paſſed over to the Lords day; So that the taking of that Caſtle that day coſt dearly, the loſſe of but a few, not paſt ten men, but five of them were Officers of great note on whoſe name my pen is loath to write the ſlower of the Engliſh Army, Our dearly beloved for his <hi>Valour, Diſcretion</hi> and <hi>Religion,</hi> Sir <hi>Simon Harcott,</hi> chief Commander that day, ſlaine by a bullet ſhot of the Caſtle, as he was overſeeing the planting of the Ordinance, a man much lamented. But I doubt not but God will provide others for his place. I wrote formerly to venter for lands in
+<pb facs="tcp:171478:4"/>
+theſe parts, I hope you have done it: Iſhould be ſorrow you ſhould let ſlip ſuch an ofler. Your Siſter remembreth herſelf unto you: to her ſiſter, and to all yours. So doth hee who commends you to God and reſts.</p>
+            <closer>
+               <signed>Your loving brother
+Roger Puttok.</signed>
+            </closer>
+            <trailer>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>INIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:171478:5"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:171478:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
